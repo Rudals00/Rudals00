@@ -20,8 +20,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudals9686)](https://solved.ac/rudals9686/)
 
-
-### 🧑🏻‍💻 Contacts
-
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://rudals00.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudals9359@gmail.com)](mailto:rudals9359@gmail.com)
