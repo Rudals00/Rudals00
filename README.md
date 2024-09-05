@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Rudals's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudals00&show_icons=true&theme=radical)
-
 ### 🔭 Tech Stacks
   
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
@@ -17,6 +15,4 @@
 ### 👀 Algorithm
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudals9686)](https://solved.ac/rudals9686/)
 
